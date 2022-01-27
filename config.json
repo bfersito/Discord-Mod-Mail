@@ -1,6 +1,6 @@
 {
   "prefix": "TU-PREFIX",
-  "ServerID" "ID-DEL-SERVIDOR",
+  "ServerID": "ID-DEL-SERVIDOR",
   
   "status": "ESTADO-PARA-EL-BOT",
   "rol": "NOMBRE-DEL-ROL-DE-STAFF",
