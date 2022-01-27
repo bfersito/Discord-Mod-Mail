@@ -1,8 +1,9 @@
 {
-  "prefix": "TU-PREFIX",
-  "ServerID": "ID-DEL-SERVIDOR",
-  
+  "prefix": "PREFIX-DEL-BOT",
   "status": "ESTADO-PARA-EL-BOT",
+  "token": "TOKEN-DEL-BOT",
+  
+  "ServerID": "ID-DEL-SERVIDOR",
   "rol": "NOMBRE-DEL-ROL-DE-STAFF",
   "categoria": "NOMBRE-DE-LA-CATEGORIA",
   
