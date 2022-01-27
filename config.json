@@ -1,0 +1,14 @@
+{
+  "prefix": "TU-PREFIX",
+  "ServerID" "ID-DEL-SERVIDOR",
+  
+  "status": "ESTADO-PARA-EL-BOT",
+  "rol": "NOMBRE-DEL-ROL-DE-STAFF",
+  "categoria": "NOMBRE-DE-LA-CATEGORIA",
+  
+  "setupCommand": "NOMBRE-DEL-COMANDO-SETUP",
+  "helpCommand": "NOMBRE-DEL-COMANDO-HELP",
+  "closeCommand": "NOMBRE-DEL-COMANDO-CLOSE",
+  "openCommand": "NOMBRE-DEL-COMANDO-OPEN",
+  
+}
